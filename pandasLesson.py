@@ -30,7 +30,7 @@ data_df.rename(columns={'countriesAndTerritories': 'countries', 'dateRep':'date'
 from datetime import datetime as dt
 dateType = lambda x: dt.strptime(str(x), "%d/%m/%Y")
 data_df["date"] = data_df["date"].apply(dateType) # datetime64[ns]
-# OR 
+# OR
 # read it again while specifying the date column
 # data_df = pd.read_csv(filePath,sep=",",header=0, encoding="utf-8",usecols=fields,
 #  dayfirst=True, parse_dates=[0]) 
