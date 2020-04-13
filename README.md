@@ -4,7 +4,7 @@ some pandas and matplotlib work
 
 what will be covered:  
 Installations?  
-Virtual Environments  
+Virtual Environments (optional)  
 • Pipenv, pipfile, pipfile.lock  
 • virtualenv, requirements.txt  
 • venv  
