@@ -21,4 +21,5 @@ link to TK book- https://tkdocs.com/tutorial/index.html
 יש גם חוברת מתורגמת שלי
 
 link to website- https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+
 link to download csv directly- endata.ecdc.europa.eu/covid19/casedistribution/csv
