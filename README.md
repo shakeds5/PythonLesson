@@ -22,4 +22,4 @@ link to TK book- https://tkdocs.com/tutorial/index.html
 
 link to website- https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 
-link to download csv directly- endata.ecdc.europa.eu/covid19/casedistribution/csv
+link to download csv directly- https://opendata.ecdc.europa.eu/covid19/casedistribution/csv
